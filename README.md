@@ -4,3 +4,5 @@
 A video “user guide” containing instructions on how to setup and execute the R scripts is available at
 https://youtu.be/azpD2GG0qNA
 Please watch it before using the R scripts.
+
+The papers fully explaining the development & validation of the scheme are available in the repo as a post-print version.
